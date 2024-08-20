@@ -1,6 +1,6 @@
 **Azure Data Engineering Repository**
 
-Welcome to the **Azure Data Engineering **! This repository is designed to be your one-stop shop for all materials, code examples, and resources related to our journey through the world of Data Engineering. Whether you're a beginner or someone looking to brush up on your skills, this repository will provide you with everything you need to master the essentials.
+Welcome to the **Azure Data Engineering**! This repository is designed to be your one-stop shop for all materials, code examples, and resources related to our journey through the world of Data Engineering. Whether you're a beginner or someone looking to brush up on your skills, this repository will provide you with everything you need to master the essentials.
 
 **Contents**
 
