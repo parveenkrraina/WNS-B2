@@ -29,3 +29,6 @@ Welcome to the **Azure Data Engineering**! This repository is designed to be you
 
 -   **ETL Processes**: Understanding ETL (Extract, Transform, Load) processes and best practices for implementing them.
 -   **Data Lakes and Warehouses**: A comparative study of data lakes vs. data warehouses and their respective use cases.
+
+**6. DP-203 Labs**
+-    **Lab-01**: https://microsoftlearning.github.io/dp-203-azure-data-engineer/Instructions/Labs/01-Explore-Azure-Synapse.html
