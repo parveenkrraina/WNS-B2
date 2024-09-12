@@ -32,3 +32,18 @@ Welcome to the **Azure Data Engineering**! This repository is designed to be you
 
 **6. DP-203 Labs**
 -    **Lab-01**: https://microsoftlearning.github.io/dp-203-azure-data-engineer/Instructions/Labs/01-Explore-Azure-Synapse.html
+-    **Lab-02**: https://microsoftlearning.github.io/dp-203-azure-data-engineer/Instructions/Labs/02-Analyze-data-with-sql.html
+-    **Lab-03**: https://microsoftlearning.github.io/dp-203-azure-data-engineer/Instructions/Labs/03-Transform-data-with-sql.html
+-    **Lab-04**: https://microsoftlearning.github.io/dp-203-azure-data-engineer/Instructions/Labs/04-Create-a-Lake-Database.html
+-    **Lab-05**: https://microsoftlearning.github.io/dp-203-azure-data-engineer/Instructions/Labs/05-Analyze-files-with-Spark.html
+-    **Lab-06**: https://microsoftlearning.github.io/dp-203-azure-data-engineer/Instructions/Labs/06-Transform-Data-with-Spark.html
+-    **Lab-07**: https://microsoftlearning.github.io/dp-203-azure-data-engineer/Instructions/Labs/07-Use-delta-lake.html
+-    **Lab-08**:
+-    **Lab-09**: 
+-    **Lab-10**: 
+-    **Lab-11**: 
+-    **Lab-12**:
+-    **Lab-13**: 
+-    **Lab-14**: 
+-    **Lab-15**: 
+   
