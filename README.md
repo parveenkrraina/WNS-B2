@@ -38,12 +38,19 @@ Welcome to the **Azure Data Engineering**! This repository is designed to be you
 -    **Lab-05**: https://microsoftlearning.github.io/dp-203-azure-data-engineer/Instructions/Labs/05-Analyze-files-with-Spark.html
 -    **Lab-06**: https://microsoftlearning.github.io/dp-203-azure-data-engineer/Instructions/Labs/06-Transform-Data-with-Spark.html
 -    **Lab-07**: https://microsoftlearning.github.io/dp-203-azure-data-engineer/Instructions/Labs/07-Use-delta-lake.html
--    **Lab-08**:
--    **Lab-09**: 
--    **Lab-10**: 
--    **Lab-11**: 
--    **Lab-12**:
--    **Lab-13**: 
--    **Lab-14**: 
--    **Lab-15**: 
+-    **Lab-08**: https://microsoftlearning.github.io/dp-203-azure-data-engineer/Instructions/Labs/08-Explore-data-warehouse.html
+-    **Lab-09**: https://microsoftlearning.github.io/dp-203-azure-data-engineer/Instructions/Labs/09-Load-Data-into-Data-Warehouse.html
+-    **Lab-10**: https://microsoftlearning.github.io/dp-203-azure-data-engineer/Instructions/Labs/10-Synpase-pipeline.html
+-    **Lab-11**: https://microsoftlearning.github.io/dp-203-azure-data-engineer/Instructions/Labs/11-Spark-nobook-in-Synapse-Pipeline.html
+-    **Lab-12**: https://microsoftlearning.github.io/dp-203-azure-data-engineer/Instructions/Labs/14-Synapselink-cosmos.html
+-    **Lab-13**: https://microsoftlearning.github.io/dp-203-azure-data-engineer/Instructions/Labs/15-Synapse-link-sql.html
+-    **Lab-14**: https://microsoftlearning.github.io/dp-203-azure-data-engineer/Instructions/Labs/17-stream-analytics.html
+-    **Lab-15**: https://microsoftlearning.github.io/dp-203-azure-data-engineer/Instructions/Labs/18-Ingest-stream-synapse.html
+-    **Lab-16**: https://microsoftlearning.github.io/dp-203-azure-data-engineer/Instructions/Labs/19-Stream-Power-BI.html
+-    **Lab-17**: https://microsoftlearning.github.io/dp-203-azure-data-engineer/Instructions/Labs/22-Synapse-purview.html
+-    **Lab-18**: https://microsoftlearning.github.io/dp-203-azure-data-engineer/Instructions/Labs/23-Explore-Azure-Databricks.html
+-    **Lab-19**: https://microsoftlearning.github.io/dp-203-azure-data-engineer/Instructions/Labs/24-Analyze-Files-in-Azure-Databricks.html
+-    **Lab-20**: https://microsoftlearning.github.io/dp-203-azure-data-engineer/Instructions/Labs/25-Delta-lake-in-Azure-Databricks.html
+-    **Lab-21**: https://microsoftlearning.github.io/dp-203-azure-data-engineer/Instructions/Labs/26-Azure-Databricks-SQL.html
+-    **Lab-22**: https://microsoftlearning.github.io/dp-203-azure-data-engineer/Instructions/Labs/27-Azure-Databricks-Data-Factory.html
    
